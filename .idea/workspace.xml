@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="737daae6-6e49-4cd6-9812-f0dea2a4da32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lDJIo9pftZeFHcHWFIaBvIyA9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/flaskr" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flaskr" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flaskr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flaskr/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="737daae6-6e49-4cd6-9812-f0dea2a4da32" name="Default Changelist" comment="" />
+      <created>1607125650613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607125650613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607127032047">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="520" y="403" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1607127032047" />
+    <state x="330" y="218" key="DBNavigator.ProjectSettingsDialog" timestamp="1608287567987">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="330" y="218" key="DBNavigator.ProjectSettingsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1608287567987" />
+    <state width="1379" height="267" key="GridCell.Tab.0.bottom" timestamp="1607160862160">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862160" />
+    <state width="1379" height="267" key="GridCell.Tab.0.center" timestamp="1607160862159">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862159" />
+    <state width="1379" height="267" key="GridCell.Tab.0.left" timestamp="1607160862158">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862158" />
+    <state width="1379" height="267" key="GridCell.Tab.0.right" timestamp="1607160862159">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862159" />
+    <state width="1379" height="329" key="GridCell.Tab.1.bottom" timestamp="1607160862153">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="329" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862153" />
+    <state width="1379" height="329" key="GridCell.Tab.1.center" timestamp="1607160862153">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="329" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862153" />
+    <state width="1379" height="329" key="GridCell.Tab.1.left" timestamp="1607160862152">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="329" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862152" />
+    <state width="1379" height="329" key="GridCell.Tab.1.right" timestamp="1607160862153">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="329" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1607160862153" />
+    <state x="331" y="195" key="SettingsEditor" timestamp="1607125800639">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="331" y="195" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1607125800639" />
+    <state x="508" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1609173326894">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="508" y="389" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1609173326894" />
+  </component>
+</project>
