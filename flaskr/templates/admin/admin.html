@@ -10,9 +10,13 @@
       <header>
           <div>
             <h1>{{ user['username'] }}</h1>
+            <p>{{ user['password'] }}</p>
           </div>
       </header>
     </article>
+    {% if not loop.last %}
+      <hr>
+    {% endif %}
   {% endfor %}
 {% endblock %}>
 
