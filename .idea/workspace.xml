@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="737daae6-6e49-4cd6-9812-f0dea2a4da32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskr/templates/admin/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/templates/admin/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskr/blog.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskr/blog.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
